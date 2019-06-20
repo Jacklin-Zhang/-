@@ -1,3 +1,3 @@
-# hello-world
+## 版本更新v 1.1.0
 
-Hi Humans!
+### 1.解决NB模块PL2303无法在WIN10识别串口COM的问题
